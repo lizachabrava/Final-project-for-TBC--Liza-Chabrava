@@ -1,0 +1,21 @@
+.container {
+    height: 300px;
+    width: 1280px;
+    border: 2px solid red;
+}
+
+.tbclogo1 {
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+}
+
+.mtavari {
+    color:green;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+    
