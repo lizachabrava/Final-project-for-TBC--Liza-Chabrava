@@ -88,6 +88,27 @@
 }
 
 
+.samidivi {
+    display: flex;
+    gap: 40px;
+    margin-top: 100px;
+}
+
+
+.w1 {
+    width: 230px;
+    height: 160px;
+}
+
+.land {
+    width: 230px;
+    height: 160px;
+}
+
+.air {
+    width: 230px;
+    height: 160px;
+}
 
 
 
