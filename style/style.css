@@ -1,23 +1,36 @@
 .container {
-    height: 150px;
+    height: 50px;
     max-width: 1280px;
-    width: 98%;
+    width: 100%;
     margin: 0 auto;
-    background-color: aqua;
+    background: rgba(0, 0, 0, 0.20);
 
 }
 
-.tbclogo1 {
-    width: 70px;
-    height: 70px;
-    margin-left: 10px;
-    margin-top: 20px;
-    align-items: center;
+.header1 {
+
+    background-image: url(https://www.cuddlynest.com/blog/wp-content/uploads/2023/05/clear-water-beaches-florida-scaled.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: white;
+    display: flex;
+
+}
+
+.serchi {
+
+    width: 100px;
+    height: 100px;
+}
+
+
     
-}
+
 
 .mtavari {
-    color:black;
+    color: #FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -29,7 +42,7 @@
 
 
 .chvenshesaxeb {
-    color: black;
+    color: #FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -39,7 +52,7 @@
 }
     
 .siaxleebi {
-    color: black;
+    color: #FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -48,7 +61,7 @@
 }
 
 .kontaqtebi {
-    color: black;
+    color: #FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -56,7 +69,7 @@
     line-height: normal;
 }
 .chatboti {
-    color:black;
+    color: #FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -67,11 +80,14 @@
 
 .chamonatvali {
     display: flex;
-    gap: 20px;
-    margin-left: 500px;
+    gap: 30px;
+    margin-left: 600px;
     align-items: center;
     
     
 }
+
+
+
 
 
