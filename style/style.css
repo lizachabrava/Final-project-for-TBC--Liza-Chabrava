@@ -97,7 +97,7 @@
 
 .w1 {
     width: 230px;
-    height: 160px;
+    height: 160px; 
 }
 
 .land {
@@ -112,3 +112,12 @@
 
 
 
+.header2 {
+    background-image:url(https://environment.yale.edu/sites/default/files/styles/768x320/public/2023-06/Future-of-Water-iS-1401109426.jpg?h=44b879e5&itok=OvMb95J6);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: white;
+    display: flex;
+}
