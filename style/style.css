@@ -36,13 +36,14 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    width: 50px ;
-    border: 5px solid white;
-    border-radius: 8px;
+    
     
 }
 
-
+.mtavari:hover {
+    font-size: 21px;
+   color: aqua;
+}
 
 .chvenshesaxeb {
     color: #FFF;
@@ -54,6 +55,14 @@
 
 
 }
+
+.chvenshesaxeb:hover {
+    font-size: 21px;
+   color: aqua;
+}
+
+
+
     
 .siaxleebi {
     color: #FFF;
@@ -64,6 +73,13 @@
     line-height: normal;
 }
 
+
+.siaxleebi:hover {
+    font-size: 21px;
+   color: aqua;
+}
+
+
 .kontaqtebi {
     color: #FFF;
     font-family: Roboto;
@@ -72,6 +88,14 @@
     font-weight: 700;
     line-height: normal;
 }
+
+.kontaqtebi:hover {
+    font-size: 21px;
+   color: aqua;
+}
+
+
+
 .chatboti {
     color: #FFF;
     font-family: Roboto;
@@ -81,12 +105,20 @@
     line-height: normal;
 }
 
+.chatboti:hover {
+    font-size: 21px;
+   color: aqua;
+}
+
+
 
 .chamonatvali {
     display: flex;
-    gap: 30px;
-    margin-left: 600px;
+    gap: 100px;
+    margin-left: 200px;
     align-items: center;
+    margin-top: 5px;
+    
     
     
 }
@@ -106,8 +138,18 @@
 .wyali {
 
     width: 235px ;
-    border: 5px solid blue ;
+    border: 5px solid rgb(85, 85, 245) ;
     border-radius: 8px;
+    transition: 0.2s;
+
+
+}
+
+.wyali:hover {
+    width: 250px;
+    border: 7px solid rgb(85, 85, 245);
+    border-radius: 10px;
+
 
 
 }
@@ -119,18 +161,36 @@
 
 .miwa {
     width: 235px ;
-    border: 5px solid green ;
+    border: 5px solid rgb(26, 145, 26) ;
     border-radius: 8px;
+    transition: 0.2s;
 
 }
+
+.miwa:hover {
+    width: 250px;
+    border: 7px solid  rgb(26, 145, 26);
+    border-radius: 10px;
+    
+}
+
 
 .haeri4 {
 
     width: 235px ;
-    border: 5px solid purple;
+    border: 5px solid rgb(206, 92, 111);
     border-radius: 8px;
+    transition: 0.2s;
 
 
+}
+
+
+.haeri4:hover {
+    width: 250px;
+    border: 7px solid  rgb(206, 92, 111);
+    border-radius: 10px;
+    
 }
 
 
@@ -138,6 +198,8 @@
     width: 230px;
     height: 160px; 
 }
+
+
 
 .land {
     width: 230px;
@@ -223,22 +285,91 @@
 .climati {
     width: 330px;
     height: 190px; 
+    
 
 }
 
 .v1{
-    width: 330px;
+    width: 355px;
     height: 190px; 
+    
+
 }
    
-.n1 {
-    width: 330px;
-    height: 190px; 
+.resourses2 {
+    width: 340px;
+    height: 200px; 
+    
 }
 
 .qardebi {
 display: flex;
 gap: 90px;
-margin-left: 40px;
+margin-left: 30px;
 margin-top: 90px;
+}
+
+
+.text1 {
+
+    color:#3a3e42;
+    font-family: Lora;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: block;
+    
+}
+
+.text2 {
+
+    color: #3a3e42;
+    font-family: Lora;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: block;
+    width: 250px;
+    height: 160px;
+}
+
+.text3 {
+
+    color: #3a3e42;
+    font-family: Lora;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: block;
+    width: 280px;
+    height: 160px;
+}
+
+
+.katastrofa {
+    width: 364px ;
+    border: 5px solid rgb(212, 20, 20);
+    border-radius: 8px;
+    transition: 0.2s;
+    
+}
+
+
+.klimati{
+
+    width: 340px ;
+    border: 5px solid rgb(141, 80, 80);
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+.res {
+    width: 350px ;
+    border: 5px solid rgb(151, 207, 168);
+    border-radius: 8px;
+    transition: 0.2s;
+
 }
