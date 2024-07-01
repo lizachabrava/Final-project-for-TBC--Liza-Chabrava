@@ -571,3 +571,22 @@ margin-top: 90px;
     margin-left: 65px;
     margin-top: 70px;
 }
+
+.p4 {
+    color: black;
+    font-family: BPG Glaho;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+
+}
+
+.p4::first-letter{
+    font-size: 25px;
+    color: red;
+}
