@@ -580,8 +580,8 @@ margin-top: 90px;
     font-weight: 500;
     line-height: normal;
     width: 1200px;
-    margin-left: 20px;
-    margin-top: 10px;
+    margin-left: 30px;
+    margin-top: 40px;
 
 
 }
@@ -589,4 +589,35 @@ margin-top: 90px;
 .p4::first-letter{
     font-size: 25px;
     color: red;
+}
+
+.asia {
+    color: red;
+    font-family: BPG Glaho;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.p6 {
+    color: black;
+    font-family: lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.azia {
+    width: 700px;
+    height: 700px;
+    margin-left: 250px;
+
 }
