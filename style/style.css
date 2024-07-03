@@ -621,3 +621,95 @@ margin-top: 90px;
     margin-left: 250px;
 
 }
+
+.chexva {
+    color: black;
+    font-family: lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.evropa1 {
+    color: red;
+    font-family: BPG Glaho;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+
+.p7 {
+    color: black;
+    font-family: lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.p7::first-letter {
+    font-size: 30px;
+    color: red;
+}
+
+.f2 {
+    width: 900px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.saqartvelo {
+    color: red;
+    font-family: BPG Glaho;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.p8 {
+    color: black;
+    font-family: lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.p9 {
+    color: black;
+    font-family: lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.air3 {
+    width: 900px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
