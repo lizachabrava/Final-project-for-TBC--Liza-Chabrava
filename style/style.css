@@ -5,6 +5,9 @@
     margin: 0 auto;
     background: rgba(0, 0, 0, 0.20);
     position: center;
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
 
 }
 
@@ -14,13 +17,16 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 400px;
+    width: 100%;
+    height: 40vh;
     color: white;
     display: flex;
-   
-    
 
 }
+
+
+
+
 
 .serchi {
 
@@ -100,7 +106,7 @@
 
 
 .chatboti {
-    color: #FFF;
+    color:#FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -300,7 +306,7 @@
 }
    
 .resourses2 {
-    width: 340px;
+    width: 330px;
     height: 200px; 
     
 }
@@ -308,7 +314,7 @@
 .qardebi {
 display: flex;
 gap: 90px;
-margin-left: 25px;
+margin-left: 15px;
 margin-top: 90px;
 }
 
@@ -378,7 +384,7 @@ margin-top: 90px;
 }
 
 .res {
-    width: 350px ;
+    width: 340px ;
     border: 5px solid rgb(151, 207, 168);
     border-radius: 8px;
     transition: 0.2s;
@@ -490,6 +496,48 @@ margin-top: 90px;
 
 }
 
+.wv {
+    width: 455px;
+    height: 380px;
+    margin-left: 420px;
+}
+
+.f3 {
+    color: #3a3e42;
+    font-family: BPG Glaho;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 350px;
+    margin-top: 40px;
+}
+
+.fondi {
+    color: #495057;
+    font-family: Lora;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 800px;
+    height: 500px;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+
+.fondi::first-letter {
+    font-size: 35px;
+    color: red;
+
+}
+
+.c1 {
+
+    width: 755px;
+    height: 400px;
+    margin-left: 280px;
+}
 
 .inputs {
     width: 756px;
@@ -711,5 +759,144 @@ margin-top: 90px;
     width: 900px;
     height: 600px;
     margin-left: 150px;
+    margin-top: 30px;
+}
+
+.p10 {
+    color: black;
+    font-family: lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.batumi {
+    width: 900px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+    
+.futeri {
+    width: 1263px;
+   height: 300px;
+   background-color: black;
+   margin-top: 200px;
+}
+
+.logo {
+
+    width: 150px;
+    height: 150px;
+    margin-top: 75px;
+    margin-left: 40px ;
+    display: inline;
+    
+    
+
+}
+
+.dagvekontaqtet {
+    color: #FFF;
+    margin-top: 120px;
+    
+    
+    
+}
+
+.nom {
+    color:#FFF;
+    
+}
+.em {
+    color: #FFF;
+   
+}
+
+.di2 {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 50px;
+    
+    
+}
+
+.kavshiri {
+    display: flex;
+    flex-direction: column;
+}
+
+.aseve {
+    color: #FFF;
+    margin-left: 240px;
+    margin-top: 120px;
+
+}
+
+.logos {
+    display: flex;
+   
+}
+.face {
+    font-size: 40px;
+    color: #FFF;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.insta {
+    color: #FFF;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 42px;
+}
+
+.tik {
+    color: #FFF;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 42px;
+
+}
+
+.iqsi {
+    color: #FFF;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 42px;
+
+}
+
+.what {
+    color: #FFF;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 50px;
+
+}
+
+.divebi1 {
+    display: flex;
+    
+}
+
+.tbcl {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    margin-left: 220px;
+    margin-top: 87px;
+}  
+
+.face1 {
+    font-size: 40px;
+    color: #FFF;
+    margin-left: 200px;
     margin-top: 30px;
 }
